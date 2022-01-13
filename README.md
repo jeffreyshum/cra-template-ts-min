@@ -14,6 +14,8 @@ yarn create react-app my-app --template ts-min
 
 # Directory Structure
 
+Changes made from `create-react-app`, along with some suggested directory guidelines.
+
 ```
 .
 ├───public
@@ -24,7 +26,8 @@ yarn create react-app my-app --template ts-min
 │   │   └─── # Assets Go Here
 │   │
 │   ├───components
-│   │   └─── # React Components Go Here
+│   │   ├─── # React Components Go Here
+│   │   └─── # Components Should Have Independent Sub-Directories Where Applicable (If Using Locally Scoped CSS)
 │   │
 │   ├───styles
 │   │   ├──── # Global Imported CSS Files Should Go Here. Locally Scoped CSS Should Be In Their Respective Component Directory
