@@ -7,6 +7,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](https://prettier.io/)
 
+An Opinionated Directory Structure For React Using TypeScript.
+
 # Usage
 
 To use this template, append `--template ts-min` to `create-react-app` command.
