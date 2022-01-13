@@ -22,10 +22,14 @@ yarn create react-app my-app --template ts-min
 ├───src
 │   ├───assets
 │   │   └─── # Assets Go Here
+│   │
 │   ├───components
 │   │   └─── # React Components Go Here
-│   ├───styles # Global Imported CSS Files Should Go Here. Locally Scoped CSS Should Be In Their Respective Component Directory
-│   │   └───globals.css
+│   │
+│   ├───styles
+│   │   ├──── # Global Imported CSS Files Should Go Here. Locally Scoped CSS Should Be In Their Respective Component Directory
+│   │   └───globals.css # Application Default Global CSS
+│   │
 │   └───index.tsx # Entry Point File
 │
 ├───.prettierrc  # Prettier Settings. Change This to Your Liking if Desired.
