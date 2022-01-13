@@ -12,6 +12,8 @@ An Opinionated Directory Structure For React Using TypeScript.
 
 To use this template, append `--template ts-min` to `create-react-app` command.
 
+For Example:
+
 ```sh
 npx create-react-app my-app --template ts-min
 
