@@ -1,6 +1,7 @@
 # cra-template-ts-min
 
 [![npm Version](https://img.shields.io/npm/v/cra-template-ts-min?style=for-the-badge)](https://www.npmjs.com/package/cra-template-ts-min)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
