@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-ts-min",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "A minimal directory structure for working with React in TypeScript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffreyshum/cra-template-ts-min"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/jeffreyshum/cra-template-ts-min/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
